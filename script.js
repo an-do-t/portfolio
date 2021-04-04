@@ -42,9 +42,9 @@ $(".slick01").slick({
 // });
 
 $(function(){
-    $(".header-nav").hide();
+    //$(".header-nav").hide();
     //メニューボタンをクリックしたとき
-    //$('.burger-btn').click(function(){
+    $('.burger-btn').click(function(){
         //0.3秒で表示したり非表示にしたりする
         $(".header-nav").fadeToggle(300);
         $(this).toggleClass("cross");
