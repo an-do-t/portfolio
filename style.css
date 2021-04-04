@@ -145,6 +145,10 @@ body .fixed {
   display: none !important;
 }
 
+.slick-slider {
+  padding: 0;
+}
+
 .slick01 li img {
   min-height: 550px;
   object-fit: cover;
