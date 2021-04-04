@@ -194,7 +194,7 @@ body .fixed {
 }
 
 .bg-works {
-  background-image: url(works-bgi@2x.jpg);
+  background-image: url(../img/works-bgi@2x.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -248,19 +248,19 @@ body .fixed {
 }
 
 .service-list .service1 {
-  background-image: url(service-img01@2x.jpg);
+  background-image: url(../img/service-img01@2x.jpg);
 }
 
 .service-list .service2 {
-  background-image: url(service-img02@2x.jpg);
+  background-image: url(../img/service-img02@2x.jpg);
 }
 
 .service-list .service3 {
-  background-image: url(sevice-img03@2x.jpg);
+  background-image: url(../img/sevice-img03@2x.jpg);
 }
 
 .bg-contact {
-  background-image: url(contact-bgi@2x.jpg);
+  background-image: url(../img/contact-bgi@2x.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -317,6 +317,7 @@ body .fixed {
     padding: 30px 4vw 0;
   }
   .header-nav {
+    display: none;
     position: fixed;
     top: 0;
     left: 0;
