@@ -155,6 +155,10 @@ body .fixed {
   width: 100%;
 }
 
+.fv{
+  position:lelative;
+}
+
 .fv .main-copy {
   color: #fff;
   position: absolute;
