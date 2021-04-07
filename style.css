@@ -119,6 +119,7 @@ header .header-inner {
 
 header .header-inner .nav-list {
   display: flex;
+  list-style: none;
 }
 
 header .header-inner .nav-list .nav-item {
