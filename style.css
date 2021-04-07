@@ -14,6 +14,10 @@ img {
   vertical-align: buttom;
 }
 
+ul{
+  list-style: none!important;
+}
+
 .section-wrapper {
   padding: 100px 0 70px;
 }
@@ -298,6 +302,10 @@ body .fixed {
 }
 
 @media screen and (max-width: 768px) {
+  ul{
+  list-style: none!important;
+  }
+  
   h2 {
     color: red;
   }
